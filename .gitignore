@@ -7,6 +7,9 @@
 *.sln.docstates
 
 # Ignore Local Directories
+
+XmlBinding\XmlBinding\obj/
+XmlBinding\XmlBinding\bin/
 XmlBinding\XmlBinding\bin\Debug/
 XmlBinding\XmlBinding\bin\Release/
 
