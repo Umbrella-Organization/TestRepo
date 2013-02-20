@@ -11,3 +11,6 @@ D:\Users\Hayabusa\Desktop\02\WPF Forum\XmlBinding\XmlBinding\obj\Debug\XmlBindin
 D:\Users\Hayabusa\Desktop\02\WPF Forum\XmlBinding\XmlBinding\obj\Debug\XmlBinding.csproj.GenerateResource.Cache
 D:\Users\Hayabusa\Desktop\02\WPF Forum\XmlBinding\XmlBinding\obj\Debug\XmlBinding.exe
 D:\Users\Hayabusa\Desktop\02\WPF Forum\XmlBinding\XmlBinding\obj\Debug\XmlBinding.pdb
+D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\bin\Debug\XmlBinding.exe.config
+D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\obj\Debug\XmlBinding.exe
+D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\obj\Debug\XmlBinding.pdb
