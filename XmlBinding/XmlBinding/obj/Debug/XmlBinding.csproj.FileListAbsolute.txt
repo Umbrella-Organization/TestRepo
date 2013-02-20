@@ -14,3 +14,13 @@ D:\Users\Hayabusa\Desktop\02\WPF Forum\XmlBinding\XmlBinding\obj\Debug\XmlBindin
 D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\bin\Debug\XmlBinding.exe.config
 D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\obj\Debug\XmlBinding.exe
 D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\obj\Debug\XmlBinding.pdb
+D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\bin\Debug\XmlBinding.exe
+D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\bin\Debug\XmlBinding.pdb
+D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\obj\Debug\XmlBinding.csprojResolveAssemblyReference.cache
+D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\obj\Debug\MainWindow.baml
+D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\obj\Debug\MainWindow.g.cs
+D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\obj\Debug\App.g.cs
+D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\obj\Debug\XmlBinding_MarkupCompile.cache
+D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\obj\Debug\XmlBinding.g.resources
+D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\obj\Debug\XmlBinding.Properties.Resources.resources
+D:\Users\Hayabusa\Documents\GitHub\TestRepo\XmlBinding\XmlBinding\obj\Debug\XmlBinding.csproj.GenerateResource.Cache

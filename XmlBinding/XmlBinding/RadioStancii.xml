@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioStations>
+<RadioStation ID="1" Name="Bayern 3" City="München" Country="Deutschland" Genre="Public" Bitrate="320 kbps" Codec="Advanced Audio Coding"  Adres="http://streams.br-online.de/bayern3_2.m3u" Image="/RadioLogos/preview.jpg"/>
+<RadioStation ID="2" Name="BB Radio" City="Potsdam" Country="Deutschland" Genre="Pop" Bitrate="320 kbps" Codec="MPEG-2 Audio Layer III" Adres="http://83.133.105.81/bbradio.mp3" Image="/RadioLogos/preview.jpg"/>
+<RadioStation ID="3" Name="btv Radio" City="Sofia" Country="Bulgarien" Genre="Public" Bitrate="320 kbps" Codec="MPEG-2 Audio Layer III" Adres="http://ng.btv.bg/m3u/btvradio.m3u" Image="/RadioLogos/preview.jpg"/>
+<RadioStation ID="4" Name="TechLaRocca" City="Aach" Country="Deutschland" Genre="Dance" Bitrate="320 kbps" Codec="Advanced Audio Coding" Adres="http://stream.techlarocca.fm/dance_high.mp3" Image="/RadioLogos/preview.jpg"/>
+<RadioStation ID="5" Name="FSK 93.0" City="Hamburg" Country="Deutschland" Genre="Variety" Bitrate="320 kbps" Codec="MPEG-2 Audio Layer III" Adres="http://stream.fsk-hh.org:8000/fsk.mp3" Image="/RadioLogos/preview.jpg"/>
+<RadioStation ID="6" Name="94.3 RS2" City="Berlin" Country="Deutschland" Genre="Pop" Bitrate="320 kbps" Codec="Waveform Audio File Format" Adres="http://stream.hoerradar.de/rs2-mp3?sABC=50n28pq9#0##vagreargenqvb" Image="/RadioLogos/preview (1).jpg"/>
+<RadioStation ID="7" Name="Metropol FM" City="Berlin" Country="Deutschland" Genre="Alternative" Bitrate="320 kbps" Codec="MPEG-2 Audio Layer III" Adres="http://metropolfm.webradiostreaming.de:8200" Image="/RadioLogos/JAM_FM.gif"/>
+<RadioStation ID="8" Name="N-JOY Soundfiles" City="Hamburg" Country="Deutschland" Genre="Hip Hop" Bitrate="320 kbps" Codec="Advanced Audio Coding" Adres="http://ndr-ndrloop6-hi-mp3.akacast.akamaistream.net/7/990/160823/v1/gnl.akacast.akamaistream.net/ndr_ndrloop6_hi_mp3" Image="http://www.studiox.bg/web/files/projects/201102/38/preview.jpg"/>
+<RadioStation ID="9" Name="104.6 RTL" City="Berlin" Country="Deutschland" Genre="Top 40" Adres="http://4123.live.streamtheworld.com:80/RTL_AIR_SC" Image="/RadioLogos/104-6.png"/>
+<RadioStation ID="10" Name="NRJ" City="Berlin" Country="Deutschland" Genre="Top 40" Adres="http://radio.nrj.net/berlin/mp3" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation ID="11" Name="Alpha Radio" City="Varna" Genre="Dance" Adres="http://188.126.1.25:8000/AlphaRadio" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation ID="12" Name="Darik Radio" City="Sofia" Genre="Top 40" Adres="http://mp3.orbitel.bg:8000/darik" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation ID="13" Name="Radio Menes" City="Silistra" Genre="Top 40" Adres="http://radio.net1.cc:8888/Menes.mp3" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation ID="14" Name="Radio Varna" City="Varna" Genre="Pop" Adres="http://212.56.1.60:8000/live" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation ID="15" Name="Radio Plovdiv" City="Plovdiv" Genre="Pop" Adres="http://80.80.147.102:28/live128" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation ID="16" Name="Coast To Coast FM" City="Bucharest" Genre="Hip Hop" Adres="http://radio.ctcfm.com:8000/" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation ID="17" Name="Tangra Mega Rock" City="Sofia" Genre="Rock" Adres="http://stream-bg-02.radiotangra.com:8000/Tangra-high" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation ID="18" Name="98.8 Kiss FM" City="Berlin" Genre="Top 40/Hip Hop" Adres="http://stream.kissfm.de/kissfm/mp3-128/internetradio/" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation ID="19" Name="101.1 The Beat" City="USA,Phoenix AZ" Genre="Hip Hop" Adres="http://out2.cmn.icy.abacast.com:80/knrj-knrjfm-128" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation ID="20" Name="Beat FM 104.8" City="Oslo" Genre="Hip Hop" Adres="http://stream.21stventure.com:8110" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation ID="21" Name="Fun Radio Hip Hop - R'n'B" City="Bratislava" Genre="R'n'B" Adres="http://stream.funradio.sk:8000/hiphop128.mp3" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation ID="22" Name="Klassik Radio Lounge" City="Hamburg" Genre="Ambient" Adres="http://edge.live.mp3.mdn.newmedia.nacamar.net/klassikradiolounge128/livestream.mp3" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation ID="23" Name="SWR3 DanceNight" City="Berlin" Genre="94,6 MHz" Adres="http://mp3-live.swr3.de/swr3raka07_m.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation ID="24" Name="Antenne Bayern" City="Berlin" Genre="94,6 MHz" Adres="http://www.antenne.de/webradio/antenne-surround.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation ID="25" Name="Antenne Bayern Top 40" City="Berlin" Genre="94,6 MHz" Adres="http://www.antenne.de/webradio/channels/top-40.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation Name="Antenne Bayern Black" City="Berlin" Genre="94,6 MHz" Adres="http://www.antenne.de/webradio/channels/black-beatz.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation Name="NDR Musik Plus" City="Berlin" Genre="94,6 MHz" Adres="http://www.ndr.de/resources/metadaten/audio/m3u/ndrmusikplus.m3u"  Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Radio Melody" City="Sofia" Genre="93,4 MHz" Adres="http://ng.btv.bg/m3u/melody.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation Name="Радио N-Joy" City="Berlin" Genre="104.2 MHz" Adres="http://ng.btv.bg/m3u/njoy.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation Name="Jam FM" City="Berlin" Genre="101.1 MHz" Adres="http://www.jam.fm/streams/jam-nmr-mp3.asx" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation Name="Jazz FM" City="Sofia" Genre="104 MHz" Adres="http://ng.btv.bg/m3u/jazzfm.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation Name="Radio Z-Rock" City="Sofia" Genre="101.1 MHz" Adres="http://ng.btv.bg/m3u/zrock.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Classic FM" City="Sofia" Genre="94,6 MHz" Adres="http://ng.btv.bg/m3u/classicfm.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation Name="БГ Радио" City="Sofia" Genre="93,4 MHz" Adres="http://62.204.145.218:8000/bgradio128.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="KATRA FM" City="София" Genre="104.2 MHz" Adres="http://www.katrafm.com/katrafm.asx" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио Energy " City="Sofia" Genre="101.1 MHz" Adres="http://80.72.68.217/nrj.ogg.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио City" City="Berlin" Genre="104,6 MHz" Adres="http://62.204.145.218:8000/city64.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation Name="Радио Star FM" City="Stara Zagora" Genre="101.1 MHz" Adres="http://pulsar.atlantis.bg:8000/inforadio.ogg.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="БГ Радио" City="Sofia" Genre="93,4 MHz" Adres="http://62.204.145.218:8000/bgradio128.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Radio Fresh!" City="София" Genre="104.2 MHz" Adres="http://193.108.24.21:8000/fresh.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио Фокус" City="Sofia" Genre="101.1 MHz" Adres="http://80.72.68.217/nrj.ogg.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио Татковина" City="Berlin" Genre="104,6 MHz" Adres="http://67.205.111.204:8000/bg.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио FM+" City="Stara Zagora" Genre="101.1 MHz" Adres="http://pulsar.atlantis.bg:8000/fmplus.ogg.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио ФСБ" City="София" Genre="104.2 MHz" Adres="http://50.23.115.122:8211/listen.pls" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио Роса" City="Sofia" Genre="101.1 MHz" Adres="http://91.204.159.123:8000/live.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио Чанове" City="Berlin" Genre="104,6 MHz" Adres="http://radio.chanove.com:8000/stream.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио Балканика" City="Stara Zagora" Genre="101.1 MHz" Adres="http://play.radiobalkanika.net:9918/listen.pls" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png" />
+<RadioStation Name="Радио Ритмо Mix" City="София" Genre="104.2 MHz" Adres="http://live.radioritmo.eu:8090/listen.pls" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио Ритмо Romantic" City="Sofia" Genre="101.1 MHz" Adres="http://live.radioritmo.eu:8080/listen.pls" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио Наздраве" City="Berlin" Genre="104,6 MHz" Adres="http://78.90.18.63:8000/listen.pls" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио Релакс" City="Stara Zagora" Genre="101.1 MHz" Adres="http://vanko.g00net.org:9000/listen.pls" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио Тотал" City="Stara Zagora" Genre="101.1 MHz" Adres="http://188.126.1.25:9000/listen.pls" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио Лозенец" City="Stara Zagora" Genre="101.1 MHz" Adres="http://listen.radioto.com:8000/listen.pls" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Radio DeeJay" City="Stara Zagora" Genre="101.1 MHz" Adres="http://www.radiodeejay.eu:8000/live.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="MegaDance FM" City="Stara Zagora" Genre="101.1 MHz" Adres="http://78.90.59.128:8000/mp128.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Radio Viva Eurodance" City="Stara Zagora" Genre="101.1 MHz" Adres="http://stream.radioextra-bg.net:8000/viva-eurodance.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио JOY" City="Stara Zagora" Genre="101.1 MHz" Adres="http://84.54.140.229:8000/listen.pls" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Traffic Radio" City="Stara Zagora" Genre="101.1 MHz" Adres="http://radio.networx-bg.com:8002/listen.pls" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="Радио Танго" City="Stara Zagora" Genre="101.1 MHz" Adres="http://radio.zvezdelin.net:8000/tango.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+<RadioStation Name="DT-Station" City="Stara Zagora" Genre="101.1 MHz" Adres="http://91.193.200.21:8001/dt-station.m3u" Image="D:\\Users\\Hayabusa\\Desktop\\02\\Prestige Player\\Prestige Player\\no-logo.png"/>
+</RadioStations>
+
