@@ -6,7 +6,7 @@
         <XmlDataProvider Source="RadioStancii.xml" x:Key="RadioData" XPath="RadioStations/RadioStation"/>
     </Window.Resources>
     <Grid>
-        <DataGrid x:Name="RadioGrid" DataContext="RadioData" ItemsSource="{Binding Source={StaticResource RadioData}, XPath=/RadioStations/RadioStation}" AutoGenerateColumns="False" GridLinesVisibility="None" Background="White" Foreground="#FF8F8F8F" BorderBrush="{x:Null}" BorderThickness="0" SelectedIndex="0" Margin="0,0,0,49">
+        <DataGrid x:Name="RadioGrid" DataContext="RadioData" ItemsSource="{Binding Source={StaticResource RadioData}, XPath=/RadioStations/RadioStation}" AutoGenerateColumns="False" GridLinesVisibility="None" Background="White" Foreground="#FF898989" BorderBrush="{x:Null}" BorderThickness="0" SelectedIndex="0" Margin="0,0,0,49">
             <DataGrid.Columns>
                 <DataGridTextColumn Binding="{Binding XPath=@ID}" ClipboardContentBinding="{x:Null}"/>
                 <DataGridTextColumn Binding="{Binding XPath=@Name}" />
