@@ -93,11 +93,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="DataSet\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="RadioStancii.xml" />
+    <Resource Include="DataSet\RadioStancii.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
