@@ -6,6 +6,10 @@
 *.user
 *.sln.docstates
 
+# Ignore Local Directories
+XmlBinding\XmlBinding\Bin/
+
+
 # Build results
 
 [Dd]ebug/
