@@ -6,7 +6,7 @@
         <XmlDataProvider Source="RadioStancii.xml" x:Key="RadioData" XPath="RadioStations/RadioStation"/>
     </Window.Resources>
     <Grid>
-        <DataGrid x:Name="RadioGrid" DataContext="RadioData" ItemsSource="{Binding Source={StaticResource RadioData}, XPath=/RadioStations/RadioStation}" AutoGenerateColumns="False" GridLinesVisibility="None" Background="White" Foreground="#FF8F8F8F" BorderBrush="{x:Null}" BorderThickness="0" SelectedIndex="0">
+        <DataGrid x:Name="RadioGrid" DataContext="RadioData" ItemsSource="{Binding Source={StaticResource RadioData}, XPath=/RadioStations/RadioStation}" AutoGenerateColumns="False" GridLinesVisibility="None" Background="White" Foreground="#FF8F8F8F" BorderBrush="{x:Null}" BorderThickness="0" SelectedIndex="0" Margin="0,0,0,42">
             <DataGrid.Columns>
                 <DataGridTextColumn Binding="{Binding XPath=@ID}" ClipboardContentBinding="{x:Null}"/>
                 <DataGridTextColumn Binding="{Binding XPath=@Name}" />
@@ -16,5 +16,7 @@
                 <DataGridTextColumn Binding="{Binding XPath=@Codec}" ClipboardContentBinding="{x:Null}"/>
             </DataGrid.Columns>
         </DataGrid>
+        <Button Content="Button" HorizontalAlignment="Left" Height="22" Margin="11,439,0,0" VerticalAlignment="Top" Width="94"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="22" Margin="123,439,0,0" VerticalAlignment="Top" Width="94"/>
     </Grid>
 </Window>
