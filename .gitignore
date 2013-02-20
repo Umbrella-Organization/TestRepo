@@ -7,7 +7,7 @@
 *.sln.docstates
 
 # Ignore Local Directories
-XmlBinding\XmlBinding\Bin/
+XmlBinding\XmlBinding\bin/
 
 
 # Build results
